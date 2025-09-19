@@ -1,7 +1,7 @@
 {
   "objects": [
-    { "type": "ground", "x": 0, "y": -3 },
-    { "type": "ground", "x": 3, "y": -3 },
+    { "type": "ground", "x": 0, "y": -3.9601 },
+    { "type": "ground", "x": 3, "y": -3.9601 },
     { "type": "platform", "x": 4, "y": 0 },
     { "type": "platform", "x": 6, "y": 0 },
     { "type": "coin", "x": 4, "y": 2 },
