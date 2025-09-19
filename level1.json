@@ -3,7 +3,6 @@
     { "type": "ground", "x": 0, "y": -3 },
     { "type": "ground", "x": 3, "y": -3 },
     { "type": "platform", "x": 4, "y": 0 },
-    { "type": "platform", "x": 5, "y": 0 },
     { "type": "platform", "x": 6, "y": 0 },
     { "type": "coin", "x": 4, "y": 2 },
     { "type": "coin", "x": 6, "y": 2 }
