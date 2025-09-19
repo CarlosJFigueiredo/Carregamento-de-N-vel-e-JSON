@@ -1,0 +1,8 @@
+{
+  "objects": [
+    { "type": "ground", "x": 0, "y": -3 },
+    { "type": "ground", "x": 3, "y": -3 },
+    { "type": "platform", "x": 5, "y": 0 },
+    { "type": "coin", "x": 5, "y": 2 }
+  ]
+}
